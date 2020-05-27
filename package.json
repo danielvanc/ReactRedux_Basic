@@ -1,0 +1,16 @@
+{
+  "name": "redux-tutorial-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.8.3",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "redux": "^2.0.0 || ^3.0.0 || ^4.0.0-0"
+  }
+}
